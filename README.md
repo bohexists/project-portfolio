@@ -11,6 +11,15 @@ This portfolio showcases a variety of projects I've developed, categorized to de
   - [View Project](https://github.com/bohexists/telegram-hub-svc)
 
 ### Services
+
+- **Authentication and Authorization Service (auth-manager-svc)**: A service for authentication and authorization [view project](https://github.com/bohexists/auth-manager-svc).
+  - **Language & Frameworks**: Go, Gin.
+  - **Tools & Libraries**: GORM, bcrypt, JWT token, Golang Migrate.
+  - **Database**: PostgreSQL.
+  - **Docker & Containerization**: Docker, Docker Compose.
+  - **Architecture & Design Patterns**: Clean Architecture, DDD, DI, DTOs, SOLID, DRY, Middleware, Repository Pattern, JWT Authentication & Authorization.
+
+
 - **User Management (users-svc)**: Manages user data and authentication processes [view project](https://github.com/bohexists/users-svc).
     - **Language & Frameworks**: Go, Gin.
     - **Database**: MongoDB.
