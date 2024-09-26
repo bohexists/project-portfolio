@@ -6,18 +6,30 @@ This portfolio showcases a variety of projects I've developed, categorized to de
 ## Categories and Projects
 
 ### Pet Project
-- **Telegram Hub (telegram-hub-svc)**: A centralized hub to manage and integrate Telegram bots with external APIs like Binance.
-  - **Technologies**: Go, SQL, PostgreSQL, EC2, RDS, Telegram and Binance Integration, Configurations, "net/http"
-  - [View Project](https://github.com/bohexists/telegram-hub-svc)
+
+- Telegram Hub Service (telegram-hub-svc): A service for interacting with users through a Telegram bot [view project](https://github.com/bohexists/telegram-hub-svc).
+  - **Language & Frameworks**: Go, SQL, net/http.
+  - **Tools & Libraries**: GORM, go-binance, go-dotenv.
+  - **Database**: RDS(PostgreSQL).
+  - **DevOps**: EC2, RDS.
+  - **Architecture & Design Patterns**: Clean Architecture, EDD, DI, Middleware, Repository, Bot-based Integration, Config management, Command Pattern.
 
 ### Services
 
 - **Authentication and Authorization Service (auth-manager-svc)**: A service for authentication and authorization [view project](https://github.com/bohexists/auth-manager-svc).
-  - **Language & Frameworks**: Go, Gin.
+  - **Language & Frameworks**: Go, SQL, Gin.
   - **Tools & Libraries**: GORM, bcrypt, JWT token, Golang Migrate.
   - **Database**: PostgreSQL.
   - **Docker & Containerization**: Docker, Docker Compose.
-  - **Architecture & Design Patterns**: Clean Architecture, DDD, DI, DTOs, SOLID, DRY, Middleware, Repository Pattern, JWT Authentication & Authorization.
+  - **Architecture & Design Patterns**: Clean Architecture, DDD, DI, DTOs, SOLID, DRY, Middleware, Repository, JWT Auth.
+
+
+- **Book Management (book-crud-svc)**: A service for creating, retrieving, updating, and deleting book entries [view project](https://github.com/bohexists/book-crud-svc).
+  - **Language & Frameworks**: Go, SQL, Gorilla Mux, Swagger.
+  - **Tools & Libraries**: Logrus, godotenv, Swaggo, JWT.
+  - **Database**: PostgreSQL.
+  - **Docker & Containerization**: Docker, Docker Compose.
+  - **Architecture & Design Patterns**: Clean Architecture, DDD, CQS, DTOs, DI, SOLID(ISP, SRP), DRY, Repository.
 
 
 - **User Management (users-svc)**: Manages user data and authentication processes [view project](https://github.com/bohexists/users-svc).
@@ -25,15 +37,7 @@ This portfolio showcases a variety of projects I've developed, categorized to de
     - **Database**: MongoDB.
     - **Middlewares**: CORS Middleware, Rate Limiter, Error Handling Middleware.
     - **Docker & Containerization**: Docker, Docker Compose.
-    - **Architecture & Design Patterns**: MVC, SoC, DI, Middleware, Configuration Management, Repository Pattern.
-
-
-- **Book Management (book-crud-svc)**: A service for creating, retrieving, updating, and deleting book entries [view project](https://github.com/bohexists/book-crud-svc).
-   - **Language & Frameworks**: Go, Gorilla Mux, Swagger.
-   - **Tools & Libraries**: Logrus, godotenv, Swaggo, JWT.
-   - **Database**: PostgreSQL.
-   - **Docker & Containerization**: Docker, Docker Compose.
-   - **Architecture & Design Patterns**: Clean Architecture, DDD, CQS, DTOs, DI, SOLID(ISP, SRP), DRY, Repository Pattern.
+    - **Architecture & Design Patterns**: MVC, SoC, DI, Middleware, Config management, Repository.
   
 
 - **Ping Monitor (ping-monitor-svc)**: Monitors website uptime and integrates with Telegram for alerts [view project](https://github.com/bohexists/ping-monitor-svc).
