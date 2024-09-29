@@ -32,6 +32,14 @@ This portfolio showcases a variety of projects I've developed, categorized to de
   - **Architecture & Design Patterns**: Clean Architecture, DDD, CQS, DTOs, DI, SOLID(ISP, SRP), DRY, Repository.
 
 
+- **URL Shortener Service (url-shortener-svc)**: : A service for shortening and managing URLs [view project](https://github.com/bohexists/url-shortener-svc).
+  - **Language & Frameworks**: Go, Echo.
+  - **Tools & Libraries**: MongoDB Driver, Echo Validation, Zap.
+  - **Database**: MongoDB.
+  - **Docker & Containerization**: Docker, Docker Compose.
+  - **Architecture & Design Patterns**: Clean Architecture, Repository Pattern, DTOs, DI, Middleware, Logging.
+
+
 - **User Management (users-svc)**: Manages user data and authentication processes [view project](https://github.com/bohexists/users-svc).
     - **Language & Frameworks**: Go, Gin.
     - **Database**: MongoDB.
@@ -54,12 +62,7 @@ This portfolio showcases a variety of projects I've developed, categorized to de
    - **Architecture & Design Patterns**: SoC, SRP, Mutex Locks, DRY, Cache Object Pattern.
 
 ### Practice Modules
-- **HTTP API Practice (http-api-practice)**: Focuses on developing and testing HTTP API interactions.
-    - [View Project](https://github.com/bohexists/http-api-practice)
-
-- **Development Practices (dev-practice)**: A collection of various small projects to sharpen programming skills.
-    - [View Project](https://github.com/bohexists/dev-practice)
-
-- **Database Practices (db-practice-srv)**: Dedicated to enhancing database interaction skills.
-    - [View Project](https://github.com/bohexists/db-practice-srv)
+- **HTTP API Practice (http-api-practice)**: Focuses on developing and testing HTTP API interactions [view practice](https://github.com/bohexists/http-api-practice).
+- **Development Practices (dev-practice)**: A collection of various small projects to sharpen programming skills [view practice](https://github.com/bohexists/dev-practice).
+- **Database Practices (db-practice-srv)**: Dedicated to enhancing database interaction skills [view practice](https://github.com/bohexists/db-practice-srv).
 
