@@ -37,7 +37,7 @@ This portfolio showcases a variety of projects I've developed, categorized to de
   - **Tools & Libraries**: MongoDB Driver, Echo Validation, Zap.
   - **Database**: MongoDB.
   - **Docker & Containerization**: Docker, Docker Compose.
-  - **Architecture & Design Patterns**: Clean Architecture, Repository Pattern, DTOs, DI, Middleware, Logging.
+  - **Architecture & Design Patterns**: Clean Architecture, Repository Pattern, DTOs, DI, Middleware, Logging, Graceful Shutdown.
 
 
 - **User Management (users-svc)**: Manages user data and authentication processes [view project](https://github.com/bohexists/users-svc).
