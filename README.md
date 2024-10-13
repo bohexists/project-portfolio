@@ -26,10 +26,10 @@ This portfolio showcases a variety of projects I've developed, categorized to de
 
 - **Task Manager Service (task-manager-svc)**: A crud service for managing tasks [view project](https://github.com/bohexists/auth-manager-svc).
   - **Language & Frameworks**: Go, gRPC, MySQL.
-  - **Tools & Libraries**: Protobuf, MySQL Driver.
+  - **Tools & Libraries**: Protobuf, MySQL Driver, NATS, Migrate.
   - **Database**: MySQL.
   - **Docker & Containerization**: Docker, Docker Compose.
-  - **Architecture & Design Patterns**: Hexagonal Architecture, DDD, DI, Repository Pattern,.
+  - **Architecture & Design Patterns**: Hexagonal Architecture, DDD, DI, Graceful Shutdown, Event-Driven Architecture, Repository Pattern.
 
 
 - **Book Management (book-crud-svc)**: A service for creating, retrieving, updating, and deleting book entries [view project](https://github.com/bohexists/book-crud-svc).
