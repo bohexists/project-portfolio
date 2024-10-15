@@ -54,6 +54,13 @@ This portfolio showcases a variety of projects I've developed, categorized to de
     - **Middlewares**: CORS Middleware, Rate Limiter, Error Handling Middleware.
     - **Docker & Containerization**: Docker, Docker Compose.
     - **Architecture & Design Patterns**: MVC, SoC, DI, Middleware, Config management, Repository.
+
+
+- **Event Broker Service (event-broker-svc)**: A service for publishing events to NATS [view project](https://github.com/bohexists/event-broker-svc).
+  - **Language & Frameworks**: Go.
+  - **Tools & Libraries**: NATS Go client.
+  - **Docker & Containerization**: Docker, Docker Compose.
+  - **Architecture & Design Patterns**: Event-Driven Architecture, Dependency Injection, Domain Model Pattern..
   
 
 - **Ping Monitor (ping-monitor-svc)**: Monitors website uptime and integrates with Telegram for alerts [view project](https://github.com/bohexists/ping-monitor-svc).
