@@ -29,8 +29,7 @@ This portfolio showcases a variety of projects I've developed, categorized to de
   - **Tools & Libraries**: Protobuf, MySQL Driver, NATS, Migrate.
   - **Database**: MySQL.
   - **Docker & Containerization**: Docker, Docker Compose.
-  - **Architecture & Design Patterns**: Hexagonal Architecture, DDD, DI, Graceful Shutdown, Event-Driven Architecture, Repository Pattern.
-
+  - **Architecture & Design Patterns**: Hexagonal Architecture, DDD, DI, Graceful Shutdown, Event-Driven Architecture, Repository.
 
 - **Book Management (book-crud-svc)**: A service for creating, retrieving, updating, and deleting book entries [view project](https://github.com/bohexists/book-crud-svc).
   - **Language & Frameworks**: Go, SQL, Gorilla Mux, Swagger.
@@ -45,7 +44,7 @@ This portfolio showcases a variety of projects I've developed, categorized to de
   - **Tools & Libraries**: MongoDB Driver, Echo Validation, Zap.
   - **Database**: MongoDB.
   - **Docker & Containerization**: Docker, Docker Compose.
-  - **Architecture & Design Patterns**: Clean Architecture, Repository Pattern, DTOs, DI, Middleware, Logging, Graceful Shutdown.
+  - **Architecture & Design Patterns**: Clean Architecture, Repository, DTOs, DI, Middleware, Logging, Graceful Shutdown.
 
 
 - **User Management (users-svc)**: Manages user data and authentication processes [view project](https://github.com/bohexists/users-svc).
@@ -60,7 +59,7 @@ This portfolio showcases a variety of projects I've developed, categorized to de
   - **Language & Frameworks**: Go.
   - **Tools & Libraries**: NATS Go client.
   - **Docker & Containerization**: Docker, Docker Compose.
-  - **Architecture & Design Patterns**: Event-Driven Architecture, Dependency Injection, Domain Model Pattern..
+  - **Architecture & Design Patterns**: Event-Driven Architecture, DI, Domain Model Pattern.
   
 
 - **Ping Monitor (ping-monitor-svc)**: Monitors website uptime and integrates with Telegram for alerts [view project](https://github.com/bohexists/ping-monitor-svc).
