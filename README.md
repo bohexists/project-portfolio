@@ -55,6 +55,18 @@ This portfolio showcases a variety of projects I've developed, categorized to de
     - **Architecture & Design Patterns**: MVC, SoC, DI, Middleware, Config management, Repository.
 
 
+- **Product Fetcher Service (product-fetcher-svc)**: A microservice responsible for fetching product data from external sources [view project](https://github.com/bohexists/product-fetcher-svc).
+  - **Language & Frameworks**: Go, gRPC.
+  - **Tools & Libraries**: MongoDB Driver, Protocol Buffers.
+  - **Docker & Containerization**: Docker, Docker Compose.
+  - **Architecture & Design Patterns**: Hexagonal Architecture, DI, Repository, Graceful Shutdown.
+
+- **Product List Service (product-list-svc)**: A microservice for listing and managing product data, interacting with product-fetcher-svc. [view project](https://github.com/bohexists/product-list-svc)).
+  - **Language & Frameworks**: Go, gRPC.
+  - **Tools & Libraries**: Protocol Buffers.
+  - **Docker & Containerization**: Docker.
+  - **Architecture & Design Patterns**: Hexagonal Architecture, DI, Repository, Graceful Shutdown.
+
 - **Event Broker Service (event-broker-svc)**: A service for publishing events to NATS [view project](https://github.com/bohexists/event-broker-svc).
   - **Language & Frameworks**: Go.
   - **Tools & Libraries**: NATS Go client.
