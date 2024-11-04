@@ -31,6 +31,7 @@ This portfolio showcases a variety of projects I've developed, categorized to de
   - **Docker & Containerization**: Docker, Docker Compose.
   - **Architecture & Design Patterns**: Hexagonal Architecture, DDD, DI, Graceful Shutdown, Event-Driven Architecture, Repository.
 
+
 - **Book Management (book-crud-svc)**: A service for creating, retrieving, updating, and deleting book entries [view project](https://github.com/bohexists/book-crud-svc).
   - **Language & Frameworks**: Go, SQL, Gorilla Mux, Swagger.
   - **Tools & Libraries**: Logrus, godotenv, Swaggo, JWT.
@@ -61,11 +62,13 @@ This portfolio showcases a variety of projects I've developed, categorized to de
   - **Docker & Containerization**: Docker, Docker Compose.
   - **Architecture & Design Patterns**: Hexagonal Architecture, DI, Repository, Graceful Shutdown.
 
+
 - **Product List Service (product-list-svc)**: A microservice for listing and managing product data, interacting with product-fetcher-svc. [view project](https://github.com/bohexists/product-list-svc)).
   - **Language & Frameworks**: Go, gRPC.
   - **Tools & Libraries**: Protocol Buffers.
   - **Docker & Containerization**: Docker.
   - **Architecture & Design Patterns**: Hexagonal Architecture, DI, Repository, Graceful Shutdown.
+
 
 - **Event Broker Service (event-broker-svc)**: A service for publishing events to NATS [view project](https://github.com/bohexists/event-broker-svc).
   - **Language & Frameworks**: Go.
